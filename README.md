@@ -27,4 +27,3 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 5. vue表单验证
 6. 百度echarts插件
 7. 配置webpack.base.conf.js文件在main.js文件中引入css
-8. 
